@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in HTML when using JavaScript to manipulate the DOM. The bug involves a simple typo in the innerHTML property, causing unexpected behavior. The solution provides the correct code.
