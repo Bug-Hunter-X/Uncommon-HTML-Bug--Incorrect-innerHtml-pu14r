@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>Uncommon HTML Bug</title></head><body> <p>This is a paragraph.</p> <div id="myDiv"></div> <script> const myDiv = document.getElementById("myDiv"); myDiv.innerHtml = "<p>This is a new paragraph.</p>"; // Incorrect use of innerHtml, should be innerHTML </script> </body></html>
